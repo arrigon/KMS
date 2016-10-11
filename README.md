@@ -1,6 +1,6 @@
 # KMS
 
-Welcome to the KMS script collection! In short, KMS clusters individuals according to thei genotypes. Any presence/ absence or SNP dataset is suitable for the analysis. Just contact me if you need further help.
+Welcome to the KMS script collection! In short, KMS clusters individuals according to their genotypes. Any presence/ absence or SNP dataset is suitable for the analysis. Just contact me if you need further help.
 
 These scripts are provided to your convinience; and WITHOUT guarantee.
 If you use this script; please cite the following article:
