@@ -16,12 +16,15 @@ ready to be inputted in STRUCTURE (haploid coding, one line = one individual, fi
 
 
 2. Script1_KMN_a.r
+
 This short script shows how to import data (AFLPs, file formatted as for STRUCTURE) and run the Kmeans function.
 BEFORE running it, make sure that the working directory of R is properly set,
 to check it; prompt the following command:
+
 getwd()
 
 if the path is not correct:
+
 setwd("MyGoodPath")
 
 
