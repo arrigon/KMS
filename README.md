@@ -28,8 +28,8 @@ if the path is not correct:
 setwd("MyGoodPath")
 
 
-3. KMNruns.r
-The Kmeans function, this file must be in the same directory as the previous one. It is called by the previous script and should not be modified.
+3. KMNruns.r : The Kmeans function, this file must be in the same directory as the previous one. It is called by the previous script and should not be modified.
+
 This function will produce several files:
 - 'KMNruns10000A.txt' = results of clustering, only the replicate that maximises the inter-group inertia is kept
 			(first line = inter-group inertia of this best run, remaining lines = individuals, columns = groupings obtained for each K value)
