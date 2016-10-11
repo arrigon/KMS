@@ -1,9 +1,9 @@
 # KMS
 
-### These scripts are provided to your convinience; and WITHOUT guarantee. Nils ARRIGO; 
-### If you use this script; please cite the following article:
-#  Arrigo, N., Felber, F., Parisod, C., Buerki, S., Alvarez, N., David, J., Guadagnuolo, R., 2010. 
-# Origin and expansion of the allotetraploid Aegilops geniculata, a wild relative of wheat. New Phytol. 187, 1070-1080.
+Welcome to the KMS script collection! In short, KMS clusters individuals according to thei genotypes. Any presence/ absence or SNP dataset is suitable for the analysis. Just contact me if you need further help.
+
+These scripts are provided to your convinience; and WITHOUT guarantee.
+If you use this script; please cite the following article:
 
 http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2010.03328.x/full
 
@@ -43,5 +43,6 @@ decide what K value might be optimal (similar to the Evanno et al.'s strategy fo
 Good luck!
 Nils ARRIGO
 
-NB
-# KMS
+
+NB this project is finished and might not evolve much in a near future.
+
